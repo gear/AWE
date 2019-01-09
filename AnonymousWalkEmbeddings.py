@@ -46,7 +46,7 @@ class AWE(object):
                  num_samples=64,
                  optimize='Adagrad',
                  learning_rate=1.0,
-                 root = '../',
+                 root = '',
                  ext = 'graphml',
                  steps = 7,
                  epochs = 1,
@@ -346,7 +346,7 @@ if __name__ == '__main__':
     loss_type = 'sampled_softmax'
     optimize = 'Adagrad'
     learning_rate = 0.1
-    root = '../Datasets/'
+    root = 'Datasets/'
     ext = 'graphml'
     steps = 10
     epochs = 100
