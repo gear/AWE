@@ -1,0 +1,395 @@
+DATASET: mutag
+BATCHES PER EPOCH: 100
+BATCH SIZE: 100
+WINDOW SIZE: 16
+NEGATIVES: 10
+EPOCHS: 100
+
+EMBEDDING WORD SIZE: 128
+EMBEDDING GRAPH SIZE: 128
+LENGTH: 10
+
+Number of graphs: 188
+Generating corpus... Graph 100
+Finished 2.2035458087921143
+Number of words: 115975
+
+Initialized
+Epoch: 0
+Graph 0-100: 0.56
+Time for epoch 0: 101.11
+Epoch: 1
+Graph 1-100: 0.51
+Time for epoch 1: 100.30
+Epoch: 2
+Graph 2-100: 0.50
+Time for epoch 2: 98.74
+Epoch: 3
+Graph 3-100: 0.53
+Time for epoch 3: 98.07
+Epoch: 4
+Graph 4-100: 0.49
+Time for epoch 4: 97.67
+Epoch: 5
+Graph 5-100: 0.52
+Time for epoch 5: 98.77
+Epoch: 6
+Graph 6-100: 0.51
+Time for epoch 6: 97.42
+Epoch: 7
+Graph 7-100: 0.54
+Time for epoch 7: 98.47
+Epoch: 8
+Graph 8-100: 0.58
+Time for epoch 8: 98.29
+Epoch: 9
+Graph 9-100: 0.49
+Time for epoch 9: 98.64
+Epoch: 10
+Graph 10-100: 0.55
+Time for epoch 10: 100.33
+Epoch: 11
+Graph 11-100: 0.54
+Time for epoch 11: 97.63
+Epoch: 12
+Graph 12-100: 0.52
+Time for epoch 12: 97.90
+Epoch: 13
+Graph 13-100: 0.52
+Time for epoch 13: 97.28
+Epoch: 14
+Graph 14-100: 0.51
+Time for epoch 14: 97.81
+Epoch: 15
+Graph 15-100: 0.48
+Time for epoch 15: 97.89
+Epoch: 16
+Graph 16-100: 0.53
+Time for epoch 16: 97.30
+Epoch: 17
+Graph 17-100: 0.53
+Time for epoch 17: 98.31
+Epoch: 18
+Graph 18-100: 0.53
+Time for epoch 18: 97.77
+Epoch: 19
+Graph 19-100: 0.50
+Time for epoch 19: 97.59
+Epoch: 20
+Graph 20-100: 0.54
+Time for epoch 20: 98.99
+Epoch: 21
+Graph 21-100: 0.47
+Time for epoch 21: 98.28
+Epoch: 22
+Graph 22-100: 0.54
+Time for epoch 22: 97.94
+Epoch: 23
+Graph 23-100: 0.52
+Time for epoch 23: 98.11
+Epoch: 24
+Graph 24-100: 0.47
+Time for epoch 24: 97.85
+Epoch: 25
+Graph 25-100: 0.62
+Time for epoch 25: 98.43
+Epoch: 26
+Graph 26-100: 0.56
+Time for epoch 26: 97.24
+Epoch: 27
+Graph 27-100: 0.50
+Time for epoch 27: 97.32
+Epoch: 28
+Graph 28-100: 0.48
+Time for epoch 28: 98.02
+Epoch: 29
+Graph 29-100: 0.52
+Time for epoch 29: 97.67
+Epoch: 30
+Graph 30-100: 0.51
+Time for epoch 30: 98.25
+Epoch: 31
+Graph 31-100: 0.54
+Time for epoch 31: 97.89
+Epoch: 32
+Graph 32-100: 0.50
+Time for epoch 32: 98.42
+Epoch: 33
+Graph 33-100: 0.46
+Time for epoch 33: 98.38
+Epoch: 34
+Graph 34-100: 0.53
+Time for epoch 34: 98.43
+Epoch: 35
+Graph 35-100: 0.51
+Time for epoch 35: 98.83
+Epoch: 36
+Graph 36-100: 0.52
+Time for epoch 36: 97.46
+Epoch: 37
+Graph 37-100: 0.47
+Time for epoch 37: 97.78
+Epoch: 38
+Graph 38-100: 0.52
+Time for epoch 38: 98.05
+Epoch: 39
+Graph 39-100: 0.49
+Time for epoch 39: 97.98
+Epoch: 40
+Graph 40-100: 0.53
+Time for epoch 40: 97.48
+Epoch: 41
+Graph 41-100: 0.57
+Time for epoch 41: 98.71
+Epoch: 42
+Graph 42-100: 0.55
+Time for epoch 42: 98.39
+Epoch: 43
+Graph 43-100: 0.54
+Time for epoch 43: 98.55
+Epoch: 44
+Graph 44-100: 0.54
+Time for epoch 44: 98.95
+Epoch: 45
+Graph 45-100: 0.50
+Time for epoch 45: 97.25
+Epoch: 46
+Graph 46-100: 0.48
+Time for epoch 46: 97.76
+Epoch: 47
+Graph 47-100: 0.49
+Time for epoch 47: 97.86
+Epoch: 48
+Graph 48-100: 0.49
+Time for epoch 48: 98.60
+Epoch: 49
+Graph 49-100: 0.47
+Time for epoch 49: 97.58
+Epoch: 50
+Graph 50-100: 0.52
+Time for epoch 50: 98.22
+Epoch: 51
+Graph 51-100: 0.53
+Time for epoch 51: 98.97
+Epoch: 52
+Graph 52-100: 0.50
+Time for epoch 52: 99.11
+Epoch: 53
+Graph 53-100: 0.50
+Time for epoch 53: 98.92
+Epoch: 54
+Graph 54-100: 0.52
+Time for epoch 54: 98.96
+Epoch: 55
+Graph 55-100: 0.51
+Time for epoch 55: 98.49
+Epoch: 56
+Graph 56-100: 0.59
+Time for epoch 56: 98.95
+Epoch: 57
+Graph 57-100: 0.51
+Time for epoch 57: 98.66
+Epoch: 58
+Graph 58-100: 0.45
+Time for epoch 58: 98.43
+Epoch: 59
+Graph 59-100: 0.47
+Time for epoch 59: 100.39
+Epoch: 60
+Graph 60-100: 0.54
+Time for epoch 60: 97.69
+Epoch: 61
+Graph 61-100: 0.49
+Time for epoch 61: 97.85
+Epoch: 62
+Graph 62-100: 0.52
+Time for epoch 62: 98.07
+Epoch: 63
+Graph 63-100: 0.53
+Time for epoch 63: 98.42
+Epoch: 64
+Graph 64-100: 0.49
+Time for epoch 64: 98.49
+Epoch: 65
+Graph 65-100: 0.53
+Time for epoch 65: 98.32
+Epoch: 66
+Graph 66-100: 0.53
+Time for epoch 66: 98.76
+Epoch: 67
+Graph 67-100: 0.54
+Time for epoch 67: 98.12
+Epoch: 68
+Graph 68-100: 0.51
+Time for epoch 68: 99.35
+Epoch: 69
+Graph 69-100: 0.51
+Time for epoch 69: 99.37
+Epoch: 70
+Graph 70-100: 0.50
+Time for epoch 70: 97.85
+Epoch: 71
+Graph 71-100: 0.51
+Time for epoch 71: 98.19
+Epoch: 72
+Graph 72-100: 0.58
+Time for epoch 72: 98.16
+Epoch: 73
+Graph 73-100: 0.54
+Time for epoch 73: 97.46
+Epoch: 74
+Graph 74-100: 0.49
+Time for epoch 74: 97.63
+Epoch: 75
+Graph 75-100: 0.53
+Time for epoch 75: 98.14
+Epoch: 76
+Graph 76-100: 0.59
+Time for epoch 76: 97.51
+Epoch: 77
+Graph 77-100: 0.48
+Time for epoch 77: 98.00
+Epoch: 78
+Graph 78-100: 0.54
+Time for epoch 78: 97.52
+Epoch: 79
+Graph 79-100: 0.48
+Time for epoch 79: 98.65
+Epoch: 80
+Graph 80-100: 0.53
+Time for epoch 80: 99.44
+Epoch: 81
+Graph 81-100: 0.51
+Time for epoch 81: 98.12
+Epoch: 82
+Graph 82-100: 0.50
+Time for epoch 82: 97.85
+Epoch: 83
+Graph 83-100: 0.50
+Time for epoch 83: 97.78
+Epoch: 84
+Graph 84-100: 0.51
+Time for epoch 84: 97.84
+Epoch: 85
+Graph 85-100: 0.46
+Time for epoch 85: 99.69
+Epoch: 86
+Graph 86-100: 0.53
+Time for epoch 86: 97.05
+Epoch: 87
+Graph 87-100: 0.54
+Time for epoch 87: 98.66
+Epoch: 88
+Graph 88-100: 0.54
+Time for epoch 88: 98.49
+Epoch: 89
+Graph 89-100: 0.52
+Time for epoch 89: 98.23
+Epoch: 90
+Graph 90-100: 0.51
+Time for epoch 90: 98.59
+Epoch: 91
+Graph 91-100: 0.51
+Time for epoch 91: 97.62
+Epoch: 92
+Graph 92-100: 0.53
+Time for epoch 92: 99.12
+Epoch: 93
+Graph 93-100: 0.52
+Time for epoch 93: 96.80
+Epoch: 94
+Graph 94-100: 0.51
+Time for epoch 94: 98.84
+Epoch: 95
+Graph 95-100: 0.49
+Time for epoch 95: 98.20
+Epoch: 96
+Graph 96-100: 0.51
+Time for epoch 96: 98.32
+Epoch: 97
+Graph 97-100: 0.51
+Time for epoch 97: 99.27
+Epoch: 98
+Graph 98-100: 0.52
+Time for epoch 98: 97.99
+Epoch: 99
+Graph 99-100: 0.51
+Time for epoch 99: 98.30
+
+Time to compute embeddings: 9828.99 sec
+On Embeddings: 0.6842105263157895
+On Embeddings: 0.6052631578947368
+On Embeddings: 0.6842105263157895
+On Embeddings: 0.6578947368421053
+On Embeddings: 0.7368421052631579
+On Embeddings: 0.631578947368421
+On Embeddings: 0.7368421052631579
+On Embeddings: 0.6578947368421053
+On Embeddings: 0.5526315789473685
+On Embeddings: 0.7894736842105263
+0.7894736842105263 0.6736842105263159 0.0657368210357726
+
+Setup:  mutag rbf 1e-05
+Computing Kernel Matrix...
+Time to compute Kernel Matrix:  0.15126276016235352
+Kernel matrix shape: 188x188
+Evaluating Kernel Matrix on SVM...
+10 9 8 7 6 5 4 3 2 1 
+Average Performance on Test: 66.30% +-11.78%
+
+Setup:  mutag rbf 0.0001
+Computing Kernel Matrix...
+Time to compute Kernel Matrix:  0.15167450904846191
+Kernel matrix shape: 188x188
+Evaluating Kernel Matrix on SVM...
+10 9 8 7 6 5 4 3 2 1 
+Average Performance on Test: 66.61% +-10.20%
+
+Setup:  mutag rbf 0.001
+Computing Kernel Matrix...
+Time to compute Kernel Matrix:  0.15613675117492676
+Kernel matrix shape: 188x188
+Evaluating Kernel Matrix on SVM...
+10 9 8 7 6 5 4 3 2 1 
+Average Performance on Test: 66.47% +-10.76%
+
+Setup:  mutag rbf 0.1
+Computing Kernel Matrix...
+Time to compute Kernel Matrix:  0.15049982070922852
+Kernel matrix shape: 188x188
+Evaluating Kernel Matrix on SVM...
+10 9 8 7 6 5 4 3 2 1 
+Average Performance on Test: 66.49% +-10.59%
+
+Setup:  mutag rbf 1
+Computing Kernel Matrix...
+Time to compute Kernel Matrix:  0.15418004989624023
+Kernel matrix shape: 188x188
+Evaluating Kernel Matrix on SVM...
+10 9 8 7 6 5 4 3 2 1 
+Average Performance on Test: 64.98% +-10.47%
+
+Setup:  mutag rbf 10
+Computing Kernel Matrix...
+Time to compute Kernel Matrix:  0.15344882011413574
+Kernel matrix shape: 188x188
+Evaluating Kernel Matrix on SVM...
+10 9 8 7 6 5 4 3 2 1 
+Average Performance on Test: 64.51% +-12.45%
+
+Setup:  mutag linear 1
+Computing Kernel Matrix...
+Time to compute Kernel Matrix:  0.02528214454650879
+Kernel matrix shape: 188x188
+Evaluating Kernel Matrix on SVM...
+10 9 8 7 6 5 4 3 2 1 
+Average Performance on Test: 64.14% +-10.41%
+
+Setup:  mutag poly 1
+Computing Kernel Matrix...
+Time to compute Kernel Matrix:  0.07078146934509277
+Kernel matrix shape: 188x188
+Evaluating Kernel Matrix on SVM...
+10 9 8 7 6 5 4 3 2 1 
+Average Performance on Test: 66.57% +-9.79%
+
