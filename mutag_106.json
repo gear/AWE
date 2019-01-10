@@ -127,8 +127,8 @@
         },
         {
             "label": 47.0,
-            "source": "n3",
-            "target": "n4"
+            "source": "3",
+            "target": "4"
         },
         {
             "label": 47.0,
@@ -172,8 +172,8 @@
         },
         {
             "label": 47.0,
-            "source": "n10",
-            "target": "n19"
+            "source": "10",
+            "target": "19"
         },
         {
             "label": 47.0,
@@ -187,8 +187,8 @@
         },
         {
             "label": 47.0,
-            "source": "n13",
-            "target": "n14"
+            "source": "13",
+            "target": "14"
         },
         {
             "label": 47.0,
